@@ -1089,3 +1089,6 @@ section:not(:last-child) {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+.pepsi{
+  width: 100vh;
+}

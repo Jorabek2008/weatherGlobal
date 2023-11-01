@@ -15,7 +15,6 @@ placeholder = Search city...
 
 London
 GB
-google.com, pub-8619837687519789, DIRECT, f08c47fec0942fa0
 
 Current Location
 
@@ -86,4 +85,3 @@ Friday
 
 
 #---------- FOOTER ----------#
-google.com, pub-8619837687519789, DIRECT, f08c47fec0942fa0
